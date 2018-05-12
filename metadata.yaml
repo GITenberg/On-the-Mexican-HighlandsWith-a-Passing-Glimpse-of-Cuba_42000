@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41491'
     url: http://www.gutenberg.org/2009/agents/41491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42000#On-the-Mexican-HighlandsWith-a-Passing-Glimpse-of-Cuba
 gutenberg_issued: '2013-02-08'
 gutenberg_type: Text
 identifiers:
