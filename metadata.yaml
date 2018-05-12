@@ -1,0 +1,28 @@
+_repo: On-the-Mexican-HighlandsWith-a-Passing-Glimpse-of-Cuba_42000
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42000-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edwards, William Seymour
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '41491'
+    url: http://www.gutenberg.org/2009/agents/41491
+description: ''
+gutenberg_issued: '2013-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42000'
+  lccn: 07038228
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Description and travel'
+- !lcc 'F1201'
+- !lcsh 'Cuba -- Description and travel'
+title: On the Mexican Highlands, with a Passing Glimpse of Cuba
+url: http://www.gutenberg.org/ebooks/42000
